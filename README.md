@@ -2,9 +2,9 @@
 
 This plugins adds Jenkins pipeline steps to interact with the AWS API.
 
-* Invalidating CloudFront distributions
-* Creating, updating and deleting CloudFormation stacks
-* Up- and downloading files to/from S3
+* Invalidating CloudFront distributions.
+* Creating, updating and deleting CloudFormation stacks.
+* Up- and downloading files to/from S3.
 
 ## Upcoming features
 
