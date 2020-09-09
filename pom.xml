@@ -5,7 +5,7 @@
         <groupId>org.jenkins-ci.plugins</groupId>
         <artifactId>plugin</artifactId>
         <version>2.5</version>
-        <relativePath />
+        <relativePath/>
     </parent>
     <groupId>de.taimos</groupId>
     <artifactId>pipeline-aws</artifactId>
@@ -88,7 +88,7 @@
         <dependency>
             <groupId>org.yaml</groupId>
             <artifactId>snakeyaml</artifactId>
-            <version>1.18</version>
+            <version>1.26</version>
         </dependency>
 
         <dependency>
